@@ -17,8 +17,8 @@ export const profile: Profile = {
 };
 
 export const about: string[] = [
-  "Nathanael Sagala is a Computer Science and Physics undergraduate at the University of British Columbia. He is interested in applying computational and mathematical approaches to problems in artificial intelligence and machine learning.",
-  "His current experience includes machine learning, data analysis, software development, and object-oriented programming. He is particularly interested in exploring AI, natural language processing, human\u2013AI collaboration, and data-driven systems through research and practical projects.",
+  "Hi my name is Nathanael Sagala. I am a Computer Science and Physics undergraduate at the University of British Columbia. I am interested in applying computational and mathematical approaches to problems in artificial intelligence and machine learning.",
+  "my current interest includes machine learning, data analysis, software development, and object-oriented programming. He is particularly interested in exploring AI, human\u2013AI collaboration, and data-driven systems through research and practical projects.",
 ];
 
 export const education: Education = {
@@ -27,7 +27,7 @@ export const education: Education = {
   degree: "B.Sc. Combined Computer Science + Physics",
   period: "September 2025 \u2013 May 2029",
   gpa: "3.78",
-  gpaScale: "GPA out of 4.00",
+  gpaScale: "4.00",
   award: {
     name: "Beasiswa Indonesia Maju (BIM), Batch 4",
     body: "Indonesian Government Scholarship",
