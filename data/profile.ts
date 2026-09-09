@@ -10,7 +10,7 @@ export const profile: Profile = {
   email: "nsagala@student.ubc.ca",
   phone: "+1 604 358 1475",
   phoneHref: "tel:+16043581475",
-  github: "https://github.com/Nathanael-Sagala",
+  github: "https://github.com/n4thanaelbsagala",
   githubHandle: "Nathanael-Sagala",
   instagramHandle: "https://www.instagram.com/nathansagala_/",
   linkedin: "https://www.linkedin.com/in/nathanael-sagala-140b8b29a?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
