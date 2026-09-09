@@ -29,7 +29,7 @@ export const projects: Project[] = [
       { title: "Confusion matrix", caption: "Classification breakdown" },
     ],
     figureNote: "Figures from the analysis will be added here.",
-    repoUrl: null,
+    repoUrl: "https://github.com/n4thanaelbsagala/NCAA_WomenBasketBall_WinnerPrediction",
   },
   {
     id: "photoalbum",
@@ -47,6 +47,6 @@ export const projects: Project[] = [
       "Unit testing",
       "Git/GitHub version control",
     ],
-    repoUrl: null,
+    repoUrl: "https://github.com/n4thanaelbsagala/PhotoLibraryApp",
   },
 ];

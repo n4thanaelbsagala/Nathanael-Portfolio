@@ -18,7 +18,7 @@ export const profile: Profile = {
 
 export const about: string[] = [
   "Hi my name is Nathanael Sagala. I am a Computer Science and Physics undergraduate at the University of British Columbia. I am interested in applying computational and mathematical approaches to problems in artificial intelligence and machine learning.",
-  "my current interest includes machine learning, data analysis, software development, and object-oriented programming. He is particularly interested in exploring AI, human\u2013AI collaboration, and data-driven systems through research and practical projects.",
+  "my current interest includes machine learning, data analysis, software development, and object-oriented programming. My particular interest is in exploring AI, human\u2013AI collaboration, and data-driven systems through research and practical projects.",
 ];
 
 export const education: Education = {
