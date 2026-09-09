@@ -12,8 +12,8 @@ export const profile: Profile = {
   phoneHref: "tel:+16043581475",
   github: "https://github.com/Nathanael-Sagala",
   githubHandle: "Nathanael-Sagala",
-  instagramHandle: "@nathansagala_",
-  linkedin: null,
+  instagramHandle: "https://www.instagram.com/nathansagala_/",
+  linkedin: "https://www.linkedin.com/in/nathanael-sagala-140b8b29a?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
 };
 
 export const about: string[] = [
