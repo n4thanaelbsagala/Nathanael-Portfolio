@@ -9,8 +9,7 @@ export interface Profile {
   github: string;
   githubHandle: string;
   instagramHandle: string;
-  /** Left null until a real URL exists. Never invent one. */
-  linkedin: string | null;
+  linkedin: string;
 }
 
 export interface FigureSlot {

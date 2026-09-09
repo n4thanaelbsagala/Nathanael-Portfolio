@@ -38,15 +38,19 @@ export default function Hero() {
               </a>
               <a
                 className="iconlink"
-                href="#connect"
-                aria-label="LinkedIn, profile link coming soon, see the Connect section"
+                href={profile.linkedin}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="LinkedIn profile, opens in a new tab"
               >
                 <LinkedInIcon />
               </a>
               <a
                 className="iconlink"
-                href="#connect"
-                aria-label="Instagram handle, see the Connect section"
+                href={profile.instagramHandle}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Instagram profile, opens in a new tab"
               >
                 <InstagramIcon />
               </a>

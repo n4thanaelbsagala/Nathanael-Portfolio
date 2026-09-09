@@ -50,14 +50,19 @@ export default function Connect() {
           </div>
         )}
 
-        <div className="ccard">
+        <a
+          className="ccard"
+          href={profile.instagramHandle}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <span className="top">
             <InstagramIcon size={18} />
             <span>Instagram</span>
           </span>
-          <span className="handle">{profile.instagramHandle}</span>
+          <span className="handle">View Profile</span>
           <span className="sub">Personal</span>
-        </div>
+        </a>
       </div>
     </Section>
   );
